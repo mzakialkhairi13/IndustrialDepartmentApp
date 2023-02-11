@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BBSPJIS</string>
+    <string name="tentang_kami">Tentang Kami</string>
+    <string name="todo">TODO</string>
+    <string name="layanan_jasa">Layanan Jasa</string>
+    <string name="tracking">Pendaftaran Online</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="isi_tentangKami">Balai Besar Standardisasi dan Pelayanan Jasa Industri Selulosa Berdiri pada tanggal 14 November 1968, BBSPJIS telah memiliki banyak pengalaman dalam melakukan kegiatan penelitian dan pengembangan, perumusan standar, konsultasi, pelatihan, pengujian, sertifikasi dan kalibrasi. BBSPJIS berlokasi di Jl. Raya Dayeuhkolot No. 132, Bandung 40258. BBSPJIS berawal dari Lembaga Penelitian Selulosa (LPS) dengan status proyek. Proyek ini adalah hasil integrasi Proyek Balai Rayon dan Selulosa dengan Proyek Pilot Rayon yang merupakan hibah dari Republik Federasi Jerman. Pada tahun 1979, LPS berubah menjadi BBS (Balai Besar Selulosa), pada tanggal 29 November 2002 berubah menjadi BBPK (Balai Besar Pulp dan Kertas) dan kemudian menjadi BBSPJIS sejak tahun 2022</string>
+    <string name="balai_besar_standardisasi_dan_pelayanan_jasa_industri_selulosa">Balai Besar Standardisasi dan Pelayanan Jasa Industri Selulosa</string>
+    <string name="isi_layananJasa">Standar Pelayanan Informasi Publik ini sebagai pedoman dalam memberikan pelayanan informasi publik oleh BBSPJIS. Standar Pelayanan Informasi Publik juga digunakan untuk menjamin terlaksananya prosedur pelaksanaan atas jasa pelayanan sesuai dengan ketentuan yang berlaku, terpenuhinya kualitas pelayanan dalam pelaksanaan jasa pelayanan dan konsistensi perencanaan, pelaksanaan, pemantauan dan evaluasi atas pelaksanaan jasa pelayanan. Standar pelayanan tersebut dimaksudkan sebagai perangkat untuk mendorong terwujudnya transparansi dan akuntabilitas publik dalam penyelenggaraan pelayanan publik.</string>
+    <string name="fitur">Fitur</string>
+    <string name="fitur_aplikasi">Fitur Aplikasi</string>
+    <string name="masukkan_nama_lengkap">Masukkan nama lengkap</string>
+</resources>
